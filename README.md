@@ -18,5 +18,10 @@ Mishra Vastralaya doesn't include anything related to database, it is just a HTM
  </p>
  <p align="center">
  <img src="images/Screenshot/Screenshot (1).png">
+ <img src="images/Screenshot/Screenshot (2).png">
+  <img src="images/Screenshot/Screenshot (3).png">
+  <img src="images/Screenshot/Screenshot (4).png">
+   <img src="images/Screenshot/Screenshot (5).png">
+  
   </p>
 
